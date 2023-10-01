@@ -8,3 +8,8 @@ Bitcoin Mining - http://quantumzij3ycjw47hfxzbgd3j6m6xx2rcsld4jyolmnmfu7vbmuqnad
 
 Publeaks - http://eozjdgpnnmvcfn3drxtirjcn5c27ydkzqlzn4iptam54eewhji6qlqqd.onion/#/
 
+
+Tor Google - http://googleckcfhw4qzcjlijsfpnpucjldkxypmoyxwr5ydc63fekyycazqd.onion/
+
+
+Manual Tor Browser - http://dsbqrprgkqqifztta6h3w7i2htjhnq7d3qkh3c7gvc35e66rrcv66did.onion/
